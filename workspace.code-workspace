@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Html",
+			"path": "..\\..\\Html"
+		},
+		{
+			"name": "bulma",
+			"path": "..\\ALL2.0\\bulma"
+		},
+		{
+			"path": "..\\arbolJS"
+		},
+		{
+			"path": "..\\..\\Documents\\github\\Web"
+		},
+		{
+			"path": "..\\comentarios almacenamiento"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Html",
+		"liveServer.settings.port": 5501,
+		"git.ignoreLimitWarning": true
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "programacion-visual",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "electron index.js"
+  },
+  "author": "Cesar Gomez Aguilera ",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "electron": "^19.0.3",
+    "mysql2": "^2.3.3"
+  }
+}
